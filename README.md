@@ -1,6 +1,6 @@
 # `simple_create_raw_transaction.py`
 
-> **Disclaimer**: This script and the accompanying guide are intended for educational and learning purposes only. Always exercise caution when working with real funds and always backup your wallets.
+> **⚠️ URGENT DISCLAIMER ⚠️**: This script and the accompanying guide are intended **strictly for educational and learning purposes only**. Utilizing this script improperly or without a full understanding can lead to the **irreversible loss of funds**. Always exercise extreme caution and if you're unsure or inexperienced, it's imperative to start with a testnet. **Use entirely at your own risk.**
 
 `simple_create_raw_transaction.py` is a Python script designed for those who wish to grasp the basics of creating, signing, and broadcasting raw transactions in Bitcoin-based cryptocurrencies. This tool offers a beginner-friendly introduction to raw transactions while still retaining a modicum of customization for the more experienced user.
 
