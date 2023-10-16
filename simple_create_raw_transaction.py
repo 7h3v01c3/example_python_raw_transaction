@@ -2,6 +2,14 @@ import sys
 import os
 import requests
 
+'''
+URGENT DISCLAIMER:
+This script and the accompanying guide are intended strictly for educational and learning purposes only.
+Utilizing this script improperly or without a full understanding can lead to the irreversible loss of funds.
+Always exercise extreme caution and if you're unsure or inexperienced, it's imperative to start with a testnet.
+Use entirely at your own risk.
+'''
+
 class Config:
     # This class is used to define configurations that the script might need.
     # It currently specifies paths to the cryptocurrency daemon configuration file on various platforms
